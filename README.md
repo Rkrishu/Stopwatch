@@ -1,2 +1,2 @@
 # Stopwatch
-I develop this stopwatch  using HTML &amp; CSS only. 
+I develop this stopwatch  using HTML, css & js. 
